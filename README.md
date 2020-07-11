@@ -139,6 +139,11 @@ function Example() {
 - JavaScript Starter: https://codesandbox.io/s/chakra-ui-javascript-lzzg9
 - TypeScript Starter: https://codesandbox.io/s/chakra-ui-typescript-pomi8
 
+## `create-react-app` Templates
+
+[Check out our guide](https://next.chakra-ui.com/guides/cra-templates) for
+information on how to use our official `create-react-app` templates.
+
 ## Contributing
 
 Feel like contributing? That's awesome! We have a
@@ -291,6 +296,7 @@ Thanks goes to these wonderful people
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
